@@ -1,0 +1,111 @@
+h1{
+color:green;
+font-size:40px; 
+letter-spacing: 0.1em;
+}
+div{
+max-width: 640px;
+margin-right:auto;
+margin-left:auto;
+}
+h1,h2,footer{
+text-align:center;
+font-family: 'Bree Serif', serif;
+}
+li{
+list-style:none;
+width:33%;
+float:left;
+}
+ul:after{
+content:"";
+display:block;
+clear:both;
+}
+ul{
+padding: 0;
+}
+table{
+    width: 100%;
+}
+th{
+    padding-right: auto;
+}
+td{
+    padding-right: auto;
+    text-align:left;
+}
+
+li a {
+    color: #000;
+}
+li a:hover{
+    text-decoration:none;
+}
+header{
+    border-top: solid 10px #c2e08f;
+}
+section{
+    margin-top: 40px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+span1,span2{
+    color: teal;
+    font-size: 40px;
+}
+
+p.WAPPARS img{
+    width: 100%;
+    height:auto;
+}
+p.素材 img{
+    width: 100%;
+    height:auto;
+}
+p.入会 img{
+    width: 20%;
+    height: auto;
+}
+p.利用予約 img{
+    width: 20%;
+    height: auto;
+}
+p.テイクアウト img{
+    width: 20%;
+    height: auto;
+}
+p.クーポン img{
+    width: 20%;
+    height: auto;
+}
+.ようこそ,li,tr,ul,h4,h5{
+    text-align: center;
+    font-family:'Sawarabi Gothic',sans-serif;
+}
+.案内{
+text-align:center;
+}
+h3{
+    color:#000;
+    font-size:30px; 
+    letter-spacing: 0.1em;
+    text-align:center;
+    font-family:'Sawarabi Gothic',sans-serif;
+    }
+    div{
+        width:640px;
+    margin-right:auto;
+    margin-left:auto;
+    }
+    h4,h5{
+        font-size: 30px;
+    }
+    img{
+        max-width: 100%;
+    }
+    iframe{
+        max-width: 100%;
+    }
